@@ -1,0 +1,17 @@
+class Triangulation {
+    class Vertex {
+    public:
+        R3Point point;
+        R3Vector normal;
+        std::list<Triangle> adjacentTriangles;
+    };
+    class Triangle {
+        int indices[3];
+        //??? int adjacentTriangles[3];
+    };
+    std::vector<Vertex> vertices;
+    std::vector<Triangle> triangles;
+};
+
+//
+

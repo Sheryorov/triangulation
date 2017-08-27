@@ -1,0 +1,23 @@
+Triangulation View                            ‰   ‰
+============================================= ‰   ‰
+Project                                       ‰   ‰TriView.pro
+main.cpp                                      ‰   ‰main.cpp
+                                              ‰   ‰
+class Trianglation                            ‰   ‰Triangulation.h
+    Implementation                            ‰   ‰Triangulation.cpp
+Main window                                   ‰   ‰mainwindow.h
+    Implementation                            ‰   ‰mainwindow.cpp
+    Form                                      ‰   ‰mainwindow.ui
+DrawArea                                      ‰   ‰drawarea.h
+    Implementation                            ‰   ‰drawarea.cpp
+triFunc.h                                     ‰   ‰triFunc.h
+    triFunc.cpp                               ‰   ‰triFunc.cpp
+Scala method                                  ‰   ‰scala.h
+    scala.cpp                                 ‰   ‰scala.cpp
+                                              ‰   ‰
+R2Graph                                       ‰   ‰R2Graph.h
+R3Graph                                       ‰   ‰R3Graph.h
+                                              ‰   ‰
+cube.txt                                      ‰   ‰cube.txt
+tetrahedron.xml                               ‰   ‰tetrahedron.xml
+.                                             ‰   ‰.
